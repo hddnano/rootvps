@@ -6,4 +6,4 @@
 wget -N https://cdn.jsdelivr.net/gh/nunulyp/rootvps@main/root.sh && chmod +x root.sh && ./root.sh
 ```
 
-相关说明请查看[甬哥博客](https://kkkyg.blogspot.com/2022/02/vpsrootrooteuservhax-ipv6oraclegpcibm.html)
+
